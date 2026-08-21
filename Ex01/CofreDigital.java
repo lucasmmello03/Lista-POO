@@ -38,7 +38,6 @@ public class CofreDigital {
         saldo -= valor;
 
         return true;
-
     }
 
 }
